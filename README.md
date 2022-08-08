@@ -35,4 +35,5 @@ Classification.ipynb
 
 • **A document explaining how you tackled the problem.**
 
+Methodology.docx
 
