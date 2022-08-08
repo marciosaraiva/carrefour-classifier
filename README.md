@@ -3,6 +3,10 @@ Product url classifier based on Carrefour categories
 
 # Deliver:
 
+• **The link to access the web page or the executable of the Windows application.**
+
+https://drive.google.com/file/d/1i3kNjiK82QjjqFnVIPCGCQALpmW_aON3/view?usp=sharing
+
 • **The code used to scrape Carrefour's website:** 
 
 Scrapping.ipynb
