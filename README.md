@@ -27,7 +27,7 @@ Thus, 1729 product links were collected (~60 * 31 categories).
 
 **I) all_products.csv**
 
-_Columns in the file:Product Title, Link to Product, Processed Title Text, Category._
+_Columns in the file:  Product Title, Link to Product, Processed Title Text, Category._
 
 • **The code used to build, train and evaluate your model.**
 
